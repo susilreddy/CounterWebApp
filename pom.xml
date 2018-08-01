@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
 	<name>CounterWebApp Maven Webapp</name>
-	<url>http://maven.apache.org</url>
+	<url>http://192.168.94.156:8081/repository/CounterWebApp/</url>
 	<properties>
 		<jdk.version>1.7</jdk.version>
 		<spring.version>4.1.1.RELEASE</spring.version>
